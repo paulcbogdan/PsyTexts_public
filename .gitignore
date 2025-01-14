@@ -1,0 +1,11 @@
+/dataframes/
+/data/
+/cache/
+/uli_data/
+/desktop.ini
+/.idea/
+*.pkl
+__pycache__/
+*.zip
+*.pptx
+/make_dataset/old/
